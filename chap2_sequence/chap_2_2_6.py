@@ -3,11 +3,19 @@ numbers = [100, 34, 678]
 print(len(numbers))
 print(min(numbers))
 print(max(numbers))
+print()
+
+strs = ['ios', 'android', 'admin']
+print(len(strs))
+print(min(strs))
+print(max(strs))
+print()
 
 arrs = ['ios', 'android', 1, -1, 100]
 print(len(arrs))
 # print(min(arrs))  #TypeError: '<' not supported between instances of 'int' and 'str'
 # print(max(arrs))  #TypeError: '<' not supported between instances of 'int' and 'str'
+print()
 
 # account 校验
 database = [
