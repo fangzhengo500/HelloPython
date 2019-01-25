@@ -9,3 +9,8 @@ lst = list(zip(names, ages))
 d = dict(zip(names, ages))
 print(lst)
 print(d)
+
+# 3. 反向迭代和排序后迭代
+x = [1, 2, 3, 4]
+print(x)
+print(list(reversed(x)))
