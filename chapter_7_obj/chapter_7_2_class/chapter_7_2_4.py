@@ -10,3 +10,5 @@ s = Secretive()
 s.accessible()
 #s.__inaccessible()
 #s._Secretive__inaccessible()
+
+print(s)
